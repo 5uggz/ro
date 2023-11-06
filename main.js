@@ -1,6 +1,5 @@
 def saveInfo():
     #Saves user Info to txt pad
-    print("Username:", username, "Password:", password)
 
 def robux():
     #Visible Robux giving print
